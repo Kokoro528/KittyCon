@@ -1,0 +1,62 @@
+
+
+table{
+	background-color: pink;
+	table-layout: fixed;
+	width: 100%
+}
+
+
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.reg{
+	display: block;
+	background-color:yellow;
+	margin:auto;
+	text-align: center;
+	width: 60%;
+}
+
+.reg a{
+	margin:auto;
+}
+
+.text{
+	display: block;
+	text-align: center;
+	width: 100%
+}
+
+
+.image{
+	display: block;
+	width: 100%;
+	height: 70%;
+	align-content: center;
+}
+
+.image img{
+	margin:auto;
+	width: 100%;
+	height: 400px;
+	
+}
+
+.image input{
+	margin:auto;
+	width: 100%;
+	height: 50px;
+	background-color: powderblue;
+	text-align: bottom;
+}
+
+.profile{
+	display: none;
+}
+
+#warning{
+	display: none;
+}
